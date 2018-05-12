@@ -16,7 +16,7 @@ date_from = "2018-02-10"
 date_to = "2018-02-14"
 
 # Channel to work on
-channel_id = "C8KA7390D"
+channel_id = "INSER_CHANNEL_ID"
 
 # Message content to look for
 p1APIMsg = "Message pattern 1"
